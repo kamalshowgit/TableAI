@@ -37,15 +37,15 @@ TableAI is a modern, production-ready Streamlit app that lets you analyze sensit
 
 1. **Landing Page:**
    
-   ![Landing Page](screenshots/landing.png)
+   ![Landing Page](screenshots/Screenshot 2025-07-16 at 2.21.48 AM.png)
 
 2. **Data Preview:**
    
-   ![Data Preview](screenshots/preview.png)
+   ![Data Preview](screenshots/Screenshot 2025-07-16 at 2.23.07 AM.png)
 
 3. **Chatbot Analyst:**
    
-   ![Chatbot View](screenshots/chatbot.png)
+   ![Chatbot View](screenshots/TableAI - Secure Data Analyst.png)
 
 ---
 
